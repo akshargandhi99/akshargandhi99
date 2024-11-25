@@ -1,10 +1,8 @@
 Hi 👋 My name is Akshar Gandhi
 ==============================
 
-Fullstack Developer
--------------------
-
-I am a Fullstack Developer, Data Analyst and a Top Rated Freelancer on Upwork
+Fullstack Developer | Data Analyst | Top Rated Freelancer on Upwork
+-------------------------------------------------------------------
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [aksharwebworks.com](http://aksharwebworks.com/)
