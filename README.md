@@ -9,7 +9,6 @@ Fullstack Developer | Data Analyst | Top Rated Freelancer on Upwork
 * 💻  View my Upwork Profile [Upwork Profile](https://www.upwork.com/freelancers/~01013095cb37253138)
 * ✉️  You can contact me at [akshar.gandhi99@gmail.com](mailto:akshar.gandhi99@gmail.com)
 * 🧠  I'm learning Data Structures & Algorithms
-* ⚡  Can solve a Rubik's cube under 30 seconds!
 
 ### Skills
 
